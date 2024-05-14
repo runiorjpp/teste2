@@ -1,0 +1,38 @@
+.login{
+    width: 350px;
+    height: 400px;
+    background-color: beige;
+    margin-top: 10%;
+    border-radius: 5px;
+    text-align: center;
+    margin-left: 36%;
+}
+body{
+    background-color: darkgrey;
+}
+input{
+    padding: 10px;
+    font-size: 20px;
+    width: 90%;
+    margin-bottom: 8px;
+}
+label{
+    padding: 15px;
+    font-size: 20px;
+}
+
+.botao{
+    margin-top: 20px;
+    width: 90%;
+    cursor: pointer;
+    background-color: brown;
+    color: white;
+}
+
+.botao:hover{
+    background-color: rgb(7, 138,25 );
+}
+
+h2{
+    padding: 8px;
+}
